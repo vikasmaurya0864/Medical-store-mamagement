@@ -1,0 +1,12 @@
+
+you-tube link:https://youtu.be/DdEVBCVxWYE
+
+username: root
+
+pass:MyH55QhYpkETJBx5
+
+Name of mysql database:
+msbs1
+ 
+Db pass:
+Blank
